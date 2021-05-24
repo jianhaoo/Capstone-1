@@ -8,7 +8,7 @@ We will be able to identify the following:
 * Medal Ranking By Country
 * Insights on whether age will affect the chance of winning a medal
 
-<b>Data Selection</b>
+<b>Data Selection</b></br>
 In this analysis, we will be focusing on 6 different sports, and categorized based on the cardio intensity.
 ![image](https://user-images.githubusercontent.com/34051347/119298342-6c678180-bc8f-11eb-9e72-7101abbf3020.png)
 
