@@ -59,7 +59,7 @@ For the medium cardio intensity, we see some similarity in the age groups, which
 ![image](https://user-images.githubusercontent.com/34051347/119300545-82774100-bc93-11eb-9e1d-a01031b4424c.png)<br/>
 Lastly, we will look at the low cardio intensity sports, which consists of archery and shooting. From the visuals, we gather that the age group for the low intensity sports are more evenly distributed, for both participants and medalists. From here, we can say that  there are probably more important factors than the age factor, on having a chance to win a medal,such as years of experience/training.
 
-<b>Summary</b>
+<b>Summary</b></br>
 Judging on the distribution of participants and medalists across the three levels of sport cardio intensity, we see a correlation that for low intensity sports, participants and medalists are more evenly distributed, whereas for high intensity sports, we see a concentration of participants and medalists around the 19-30 age group. In conclusion, we can say that for high and medium intensity sports, age plays a vital role on having a chance to participant and win a medal. As Summer Olympics occurs every 4 years, the participants actually have a very small window of opportunity, due to the "optimal age" based on the insights we have seen from the visuals. 
 
 
