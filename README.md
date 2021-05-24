@@ -17,7 +17,7 @@ In this analysis, we will be focusing on 6 different sports, and categorized bas
 ![image](https://user-images.githubusercontent.com/34051347/119298388-8739f600-bc8f-11eb-836e-3b12c6bb3756.png)
 
 
-<b>Dashboard Slicers</b>
+<b>Dashboard Slicers</b></br>
 ![image](https://user-images.githubusercontent.com/34051347/119298437-a042a700-bc8f-11eb-8792-335ffac33840.png)
 The dashboard consist of slicers that allow us to filter based on:
 * Year
