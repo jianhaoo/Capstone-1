@@ -33,6 +33,7 @@ Since 1980, number of olympic participants is uptrending, which suggests that ol
 
 #Total Number Of Medals By Country
 ![image](https://user-images.githubusercontent.com/34051347/119298584-e861c980-bc8f-11eb-8f36-4c64715255b2.png)
+
 We are able to identify the top performers based on country, and the distribution of medal(Gold,Silver,Bronze). For top 3 , we have USA, Russia and Germany for the sports that we have selected.
 
 #Participants and Medals By Sports
