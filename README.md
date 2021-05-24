@@ -3,10 +3,10 @@
 ###Project Summary
 The purpose of this project is to gather insights from the past Olympic Summer Events. 
 We will be able to identify the following:
-- Identifying number of participants in each event
-- Identifying the countries that excels in the selected sport
-- Medal Ranking By Country
-- Insights on whether age will affect the chance of winning a medal
+* Identifying number of participants in each event
+* Identifying the countries that excels in the selected sport
+* Medal Ranking By Country
+* Insights on whether age will affect the chance of winning a medal
 
 #Data Selection
 In this analysis, we will be focusing on 6 different sports, and categorized based on the cardio intensity.
@@ -20,11 +20,11 @@ In this analysis, we will be focusing on 6 different sports, and categorized bas
 #Dashboard Slicers
 ![image](https://user-images.githubusercontent.com/34051347/119298437-a042a700-bc8f-11eb-8792-335ffac33840.png)
 The dashboard consist of slicers that allow us to filter based on:
--Year
--Region
--Cardio Intensity
-Sport
-Gender
+* Year
+* Region
+* Cardio Intensity
+* Sport
+* Gender
 
 #Visuals - Number Of Participants
 ![image](https://user-images.githubusercontent.com/34051347/119298509-c10afc80-bc8f-11eb-986b-646c2c1b9ab7.png)
