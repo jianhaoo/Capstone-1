@@ -52,11 +52,11 @@ This could suggest that the age group 19 - 30 years old can be considered the 'o
 Majority of the participants are from the 19-30 age group, likewise for the medalist. We see a huge decline of participants after the 36 years old. This suggests that age group is an important factor for having a shot at the medal.
 
 #Visuals - Medium Cardio Intensity Participants and Medalists
-![image](https://user-images.githubusercontent.com/34051347/119300074-baca4f80-bc92-11eb-834c-4fcf0e574851.png)
+![image](https://user-images.githubusercontent.com/34051347/119300074-baca4f80-bc92-11eb-834c-4fcf0e574851.png)<br/>
 For the medium cardio intensity, we see some similarity in the age groups, which majority still comes from 19 - 30 years old age group. But here, we do see more participants that are from the 30+ age group, as well as medalists. This suggests that for medium cardio intensity sports like badminton and table tennis, age is likely to be a less important factor compared to the high intensity sports.
 
 #Visuals - Low Cardio Intensity Participants and Medalist
-![image](https://user-images.githubusercontent.com/34051347/119300545-82774100-bc93-11eb-9e1d-a01031b4424c.png)
+![image](https://user-images.githubusercontent.com/34051347/119300545-82774100-bc93-11eb-9e1d-a01031b4424c.png)<br/>
 Lastly, we will look at the low cardio intensity sports, which consists of archery and shooting. From the visuals, we gather that the age group for the low intensity sports are more evenly distributed, for both participants and medalists. From here, we can say that  there are probably more important factors than the age factor, on having a chance to win a medal,such as years of experience/training.
 
 #Summary
