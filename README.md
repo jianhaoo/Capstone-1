@@ -1,6 +1,6 @@
 # Capstone-1 - Olympics Analysis
 
-###Project Summary
+### Project Summary
 The purpose of this project is to gather insights from the past Olympic Summer Events. 
 We will be able to identify the following:
 * Identifying number of participants in each event
